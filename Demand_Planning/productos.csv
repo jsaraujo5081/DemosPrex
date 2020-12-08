@@ -1,0 +1,51 @@
+prod_id,prod_grupo,grupo_id,prod_tipo,prod_color,prod_talla,prod_precio,prod_fuente
+1,camiseta,C,camiseta cuello redondo,blanco,S,19.36,propio
+2,camiseta,C,camiseta cuello redondo,blanco,M,19.36,propio
+3,camiseta,C,camiseta cuello redondo,blanco,L,19.36,propio
+4,camiseta,C,camiseta cuello redondo,negro,S,19.36,propio
+5,camiseta,C,camiseta cuello redondo,negro,M,19.36,propio
+6,camiseta,C,camiseta cuello redondo,negro,L,19.36,propio
+7,camiseta,C,camiseta cuello v,blanco,S,19.36,propio
+8,camiseta,C,camiseta cuello v,blanco,M,19.36,propio
+9,camiseta,C,camiseta cuello v,blanco,L,19.36,propio
+10,camiseta,C,camiseta cuello v,negro,S,19.36,propio
+11,camiseta,C,camiseta cuello v,negro,M,19.36,propio
+12,camiseta,C,camiseta cuello v,negro,L,19.36,propio
+13,camiseta polo,P,camiseta tipo polo,rojo,S,22,propio
+14,camiseta polo,P,camiseta tipo polo,rojo,M,22,propio
+15,camiseta polo,P,camiseta tipo polo,rojo,L,22,propio
+16,camiseta polo,P,camiseta tipo polo,amarillo,S,22,propio
+17,camiseta polo,P,camiseta tipo polo,amarillo,M,22,propio
+18,camiseta polo,P,camiseta tipo polo,amarillo,L,22,propio
+19,camiseta polo,P,camiseta tipo polo,blanco,S,22,propio
+20,camiseta polo,P,camiseta tipo polo,blanco,M,22,propio
+21,camiseta polo,P,camiseta tipo polo,blanco,L,22,propio
+22,camiseta polo,P,camiseta tipo polo,azul,S,22,propio
+23,camiseta polo,P,camiseta tipo polo,azul,M,22,propio
+24,camiseta polo,P,camiseta tipo polo,azul,L,22,propio
+25,camiseta polo,P,camiseta tipo polo,negro,S,22,propio
+26,camiseta polo,P,camiseta tipo polo,negro,M,22,propio
+27,camiseta polo,P,camiseta tipo polo,negro,L,22,propio
+28,boxer,B,boxer largo x3,blanco,S,17.6,externo
+29,boxer,B,boxer largo x3,blanco,M,17.6,externo
+30,boxer,B,boxer largo x3,gris,S,17.6,externo
+31,boxer,B,boxer largo x3,gris,M,17.6,externo
+32,boxer,B,boxer corto x3,blanco,S,17.6,externo
+33,boxer,B,boxer corto x3,blanco,M,17.6,externo
+34,boxer,B,boxer corto x3,gris,S,17.6,externo
+35,boxer,B,boxer corto x3,gris,M,17.6,externo
+36,calcetines,M,calcetines x4,negro,35-37,14.08,externo
+37,calcetines,M,calcetines x4,negro,38-40,14.08,externo
+38,calcetines,M,calcetines x4,negro,41-43,14.08,externo
+39,calcetines,M,calcetines x4,mixto,35-37,14.08,externo
+40,calcetines,M,calcetines x4,mixto,38-40,14.08,externo
+41,calcetines,M,calcetines x4,mixto,41-43,14.08,externo
+42,sueter,S,sueter cuello V,azul,S,26.4,propio
+43,sueter,S,sueter cuello V,azul,M,26.4,propio
+44,sueter,S,sueter cuello V,azul,L,26.4,propio
+45,sueter,S,sueter cuello V,negro,S,26.4,propio
+46,sueter,S,sueter cuello V,negro,M,26.4,propio
+47,sueter,S,sueter cuello V,negro,L,26.4,propio
+48,sueter,S,sueter cuello V,gris,S,26.4,propio
+49,sueter,S,sueter cuello V,gris,M,26.4,propio
+50,sueter,S,sueter cuello V,gris,L,26.4,propio

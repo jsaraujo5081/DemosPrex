@@ -1,0 +1,14 @@
+proceso,grupo_id,etapas,distribucion,p1,p2
+plana doble aguja,C,4,Gaussian,51.93,1.71
+plana simple,C,1,Uniform,70,80
+empaquetado,C,1,Uniform,115,125
+plana doble aguja,P,4,Gaussian,51.93,1.71
+plana simple,P,3,Uniform,70,80
+plancha,P,1,Gaussian,54.12,1.75
+botonera,P,2,Gaussian,9.93,1.74
+empaquetado,P,1,Uniform,115,125
+plana doble aguja,S,4,Gaussian,51.93,1.71
+plana simple,S,3,Uniform,70,80
+plancha,S,1,Gaussian,63.24,1.44
+botonera,S,2,Gaussian,11.04,1.82
+empaquetado,S,1,Uniform,115,125
